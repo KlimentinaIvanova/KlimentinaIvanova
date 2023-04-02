@@ -6,13 +6,11 @@ I am currently learning Software Development in SoftUni and I am looking to coll
 
 I am strongly motivated in learning new things and to work with the latest technologies in the Software development.
 
-  
-
-
-
-
+ 
 
 ###
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png?f=webp&w=256" width="40" height="40"/>&nbsp;
