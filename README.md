@@ -34,5 +34,6 @@ You can also reach me in LinkedIn or via email:
   <a href="https://www.linkedin.com/in/klimentina-ivanova-493787142"/>
   <img src='https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white'/>
   <a href="klimentina1988@gmail.com"/>
+  </a>
    </a>
   </div>
