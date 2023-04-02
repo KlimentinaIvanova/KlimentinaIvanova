@@ -17,7 +17,7 @@ I am strongly motivated in learning new things and to work with the latest techn
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="40" height="40"/>&nbsp;
  <img src="https://user-images.githubusercontent.com/106020043/171054023-c8c164fc-7005-484c-9d16-6c728d459a8d.png"width="40" height="40"/>&nbsp;
-  <img src="https://thumbs.dreamstime.com/b/https-icon-vector-isolated-white-background-logo-concept-https-sign-transparent-background-filled-black-symbol-https-icon-125786475.jpg"width="40" height="40"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/523/448/png-transparent-transport-layer-security-public-key-certificate-extended-validation-certificate-https-globalsign-step-directory-blue-text-logo.png"width="40" height="40"/>&nbsp;
   </div>
 
 ###
