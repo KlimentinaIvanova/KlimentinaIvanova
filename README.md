@@ -19,7 +19,7 @@ I am strongly motivated in learning new things and to work with the latest techn
  <img src="https://user-images.githubusercontent.com/106020043/171054023-c8c164fc-7005-484c-9d16-6c728d459a8d.png"width="40" height="40"/>&nbsp;
   <img src="https://www.shutterstock.com/image-vector/padlock-https-logo-editable-vector-260nw-2129781260.jpg"width="40" height="40"/>&nbsp;
   <img src="https://logowik.com/content/uploads/images/firebase.jpg"width="40" height="40"/>&nbsp;
-  <img src="https://findlogovector.com/wp-content/uploads/2022/04/mongodb-logo-vector-2022.png"width="40" height="40"/>&nbsp;
+  <img src="https://findlogovector.com/wp-content/uploads/2022/04/mongodb-logo-vector-2022.png"width="50" height="50"/>&nbsp;
   </div>
 
 ###
