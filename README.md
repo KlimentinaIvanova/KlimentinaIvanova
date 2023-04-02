@@ -29,9 +29,10 @@ I am strongly motivated in learning new things and to work with the latest techn
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlimentinaIvanova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-You can also reach me in LinkedIn:
+You can also reach me in LinkedIn or via email:
 <div id="badges">
   <a href="https://www.linkedin.com/in/klimentina-ivanova-493787142"/>
   <img src='https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white'/>
+  <a href="klimentina1988@gmail.com"/>
    </a>
   </div>
